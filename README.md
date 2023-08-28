@@ -17,8 +17,12 @@
 
 ## Objective
 The objective of the project Credit Card Fraud Detection is to identify fraudulent transactions and prevent them from being processed. This is achieved by using various machine learning techniques where several features like the date, time, place and amount used for the transaction are taken as input and is classified as fraud/non-fraud. These can be used by major firms in order to take necessary actions which will save genuine customers from fraudulent activities. We will be addressing following areas in this project:
+
 ▪ Credit card payment processing landscape understanding and identifying patterns in fraud transactions
+
 ▪ Evaluation of machine learning models
+
 ▪ Building a payment fraud detection system
+
 ▪ Dashboard to test the query instances for fraudulent transactions and showcase outcomes from the models
 
