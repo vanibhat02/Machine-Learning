@@ -9,6 +9,10 @@
 [![](https://img.shields.io/badge/Anaconda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
 
 [![](https://img.shields.io/badge/Model-Logistic_Regression-blue?style=for-the-badge&logo=python&logoColor=blue)](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) 
+[![](https://img.shields.io/badge/Model-SVM-blue?style=for-the-badge&logo=python&logoColor=blue)](https://scikit-learn.org/stable/modules/svm.html) 
+[![](https://img.shields.io/badge/Model-SVM-blue?style=for-the-badge&logo=python&logoColor=blue)](https://scikit-learn.org/stable/modules/ensemble.html) 
+
+
 
 ## Introduction
 
