@@ -10,7 +10,7 @@
 
 [![](https://img.shields.io/badge/Model-Logistic_Regression-blue?style=for-the-badge&logo=python&logoColor=blue)](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) 
 [![](https://img.shields.io/badge/Model-SVM-blue?style=for-the-badge&logo=python&logoColor=blue)](https://scikit-learn.org/stable/modules/svm.html) 
-[![](https://img.shields.io/badge/Model-SVM-blue?style=for-the-badge&logo=python&logoColor=blue)](https://scikit-learn.org/stable/modules/ensemble.html) 
+[![](https://img.shields.io/badge/Model-Ensemble-blue?style=for-the-badge&logo=python&logoColor=blue)](https://scikit-learn.org/stable/modules/ensemble.html) 
 
 
 
